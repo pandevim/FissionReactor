@@ -1,6 +1,6 @@
 # <div align="center">Aniruddha Fission Reactor</div><br/>
 This is a Fission Reaction fully made using p5.js. I made this as a part of my [Physics Presentation](https://docs.google.com/presentation/d/1lJkgpXpYYBJ3KgMcuDQVe21qn83WK9HNGpAaqmEa73M/edit?usp=sharing) in second semester.<br/>
-Without using any **HTML** at a!!.<br/>
+Without using any **HTML** at all!<br/>
 The library included are:<br/>
 - p5.min.js
 - p5.dom.min.js
