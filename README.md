@@ -17,3 +17,6 @@ The model for Uranium-235 isotope is made with a formula used to similar to mimi
 <br/><br/>
 <h2>The Fission reaction happening are as follows:</h2>
 <img src="https://github.com/aniruddha0pandey/FissionReactor/blob/master/img/ReactionEquation.PNG" />
+<br/><br/>
+<h2>Yet to do</h2>
+Actually their are lot of things to do, but first their is a serious need to change ```frameRate()``` function to ```noLoop()``` function as it is making the code a bit sloppy.
