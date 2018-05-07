@@ -4,7 +4,7 @@ Without using any **HTML** at all!<br/>
 The library included are:<br/>
 - p5.min.js
 - p5.dom.min.js
-- p5.collide2d.min.js (taken from @[bmoren](https://github.com/bmoren/p5.collide2D))
+- p5.collide2d.min.js (taken from [@bmoren](https://github.com/bmoren/p5.collide2D))
 
 [Here](https://aniruddha0pandey.github.io/FissionReactor/) is the hosted page.<br/>
 For more info visit p5 Official [Website](https://p5js.org/).<br/>
